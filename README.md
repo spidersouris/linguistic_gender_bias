@@ -3,7 +3,7 @@
 This repository includes code for the **Gender Bias Beyond Stereotypes: Towards Linguistically Gender-Fair Conversational LLMs** position paper accepted to GeBNLP 2026. In addition to our theoretical contribution, we conduct a small experiment to measure how often gender-inclusive word forms occur in the text corpora used to pre-train language models. Counts are obtained from the [infini-gram](https://infini-gram.readthedocs.io/en/latest/api.html) API, across seven corpora whose approximate cutoff dates range from December 2020 (the Pile) to March 2025 (OLMo 2).
 
 <p align="center">
-  <img src="figures/evol.png" width="900">
+  <img src="figures/evol.png" width="350">
 </p>
 
 GFL usage is measured for three languages (French, German and Spanish). For French, 512 manually verified masculine human nouns are queried with 5 GFL typographic marking strategies (middot, parentheses, dot, brackets, slash). For German, a list of 4,627 singular and plural gender-star forms from [the diversifx project](https://github.com/diversifix/diversifix/blob/refs/heads/main/data/dereko/star.txt) are queried. For Spanish, 1,596 plural forms marked with `-x` are queried.
