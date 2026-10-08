@@ -1,0 +1,31 @@
+code: fr
+
+key_column: masculine_word
+
+# strategy → column name
+# _pl2 = doubled-marker plural (e.g., "ami·e·s")
+columns:
+  middot: full_suffix_middot
+  paren: full_suffix_paren
+  paren-hyphen: full_suffix_paren-hyphen
+  dot: full_suffix_dot
+  brackets: full_suffix_brackets
+  brackets-hyphen: full_suffix_brackets-hyphen
+  slash: full_suffix_slash
+  middot_sg: full_suffix_middot_sg
+  paren_sg: full_suffix_paren_sg
+  paren-hyphen_sg: full_suffix_paren-hyphen_sg
+  dot_sg: full_suffix_dot_sg
+  brackets_sg: full_suffix_brackets_sg
+  brackets-hyphen_sg: full_suffix_brackets-hyphen_sg
+  slash_sg: full_suffix_slash_sg
+  middot_pl2: full_suffix_middot_pl2
+  dot_pl2: full_suffix_dot_pl2
+  slash_pl2: full_suffix_slash_pl2
+
+files:
+  - data/fr/suffix_maps/fr_forms.csv
+
+restrict:
+  file: data/fr/restricted_nouns.csv
+  column: RawNounPlural

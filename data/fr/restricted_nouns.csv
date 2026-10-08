@@ -1,0 +1,538 @@
+RawNoun,RawNounPlural,Count,neutral_personnes_verb,neutral_personnes_adj,neutral_epicene,neutral_ncoll,ncoll_gender
+ami,amis,7543,,personnes amies,camarades;proches,entourage,m
+homme,hommes,4092,,personnes humaines,humains;êtres humains,humanité,f
+utilisateur,utilisateurs,3348,personnes qui utilisent,personnes utilisatrices,internautes,communauté,f
+client,clients,3079,personnes qui achètent;personnes qui consomment,personnes clientes,,clientèle,f
+étudiant,étudiants,2890,personnes qui étudient,personnes étudiantes,élèves,corps étudiant,m
+joueur,joueurs,2551,personnes qui jouent,,membres de l'équipe;athlètes,équipe,f
+invité,invités,2547,personnes qui viennent,personnes invitées,,,
+auteur,auteurs,2429,personnes qui écrivent,personnes actrices,plumes,,
+professionnel,professionnels,2328,personnes qui excerce;personnes qui travaillent,personnes professionnelles,spécialistes,monde professionnel,m
+président,présidents,2055,personnes qui dirigent;personnes qui président,personnes dirigeantes;personnes présidentes,chefs;têtes;responsables,,
+humain,humains,1993,,personnes humaines,êtres humains,humanité,f
+habitant,habitants,1971,personnes qui habitent,personnes habitantes,,population,f
+parent,parents,1632,,personnes parentes,responsables parentales;responsables légales;responsables de l'enfant,famille,f
+adolescent,adolescents,1615,personnes qui grandissent,personnes adolescentes,jeunes,jeunesse,f
+acteur,acteurs,1407,personnes qui interprètent;personnes qui jouent,personnes actrices,artistes;interprètes,troupe,f
+candidat,candidats,1296,personnes qui postulent;personnes qui se candidatent,personnes candidates,titulaires potentiels,,
+employé,employés,1281,personnes qui travaillent,personnes employées,membres du personnel,personnel,m
+citoyen,citoyens,1274,,personnes citoyennes,contribuables,population citoyenne,f
+avocat,avocats,1134,personnes qui plaident,personnes avocates,apologistes;juristes,barreau,m
+débutant,débutants,1085,personnes qui débutent,personnes débutantes,novices,,
+professeur,professeurs,1035,personnes qui enseignent,personnes professeures;personnes ensaignantes,pédagogues;profs,corps professoral,m
+écrivain,écrivains,964,personnes qui écrivent,personnes écrivaines,plumes;littéraires,cercle littéraire,m
+chef,chefs,900,personnes qui dirigent;personnes qui commandent,personnes chefs,responsables;personnes en chef,direction;encadrement,f;m
+chevalier,chevaliers,829,,personnes chevalières,,chevalerie,f
+expert,experts,815,personnes qui excellent,personnes expertes,spécialistes,,
+consommateur,consommateurs,769,personnes qui consomment,personnes consommatrices,,clientèle,f
+patient,patients,759,,personnes malades;personnes soignées,malades,patientèle,f
+assistant,assistants,756,personnes qui aident,personnes assistantes,aides;auxiliaires,soutien,m
+chanteur,chanteurs,689,personnes qui chantent,personnes chanteuses,artistes,chœur,m
+enseignant,enseignants,669,personnes qui enseignent,personnes enseignantes,profs;pédagogues,corps enseignant,m
+développeur,développeurs,605,personnes qui développent,personnes développeuses,,équipe de développement,f
+lecteur,lecteurs,603,personnes qui lisent,personnes lectrices,bibliophiles,lectorat;auditoire,m;m
+vendeur,vendeurs,597,personnes qui vendent,personnes vendeuses,commis,,
+amateur,amateurs,593,personnes qui aiment,personnes amatrices,adeptes;enthousiastes,communauté,f
+ingénieur,ingénieurs,561,personnes qui construisent,personnes ingénieures,,,
+conseiller,conseillers,545,personnes qui conseillent,personnes conseillères,guides;spécialistes,conseil,m
+entrepreneur,entrepreneurs,536,personnes qui entreprennent,personnes entrepreneuses,chefs d'entreprise,monde entrepreneurial,m
+agent,agents,511,personnes qui agissent,personnes agentes,fonctionnaires;intermédiaires;mandataires,personnel;service,m;m
+explorateur,explorateurs,506,personnes qui explorent,personnes exploratrices,nomades,,
+participant,participants,499,personnes qui participent,personnes participantes,membres,,
+voisin,voisins,498,personnes qui voisinent,personnes voisines,,voisinage,m
+travailleur,travailleurs,494,personnes qui travaillent,personnes travailleuses,membres du personnel,main-d'œuvre,f
+soldat,soldats,463,personnes qui combattent;personnes qui servent,personnes solates;personnes combattantes,militaires,troupe;armée,f;f
+chercheur,chercheurs,443,personnes qui cherchent,personnes chercheuses,scientifiques,communauté scientifique;équipe de recherche,f;f
+musicien,musiciens,442,personnes qui jouent;personnes qui composent,personnes musiciennes,artistes,orchestre,f
+employeur,employeurs,423,personnes qui embauchent,personnes employeuses;personnes patronales,parties patronale,patronat,m
+visiteur,visiteurs,415,personnes qui visitent,personnes visiteuses,touristes,public,m
+directeur,directeurs,414,personnes qui dirigent,personnes directrices;personnes dirigeantes,responsables;gestionnaires,direction,f
+voyageur,voyageurs,410,personnes qui voyagent,personnes voyageuses;personnes voyageantes,touristes,,
+contributeur,contributeurs,410,personnes qui contribuent,personnes contributrices,partenaires,,
+représentant,représentants,385,personnes qui représentent,personnes représentantes,mandataires;porte-paorles,délégation;représentation,f;f
+héros,héros,383,,personnes héroïques,idoles;protagonistes;personnages héroïques,,
+éditeur,éditeurs,376,personnes qui éditent,personnes éditeuses,responsables éditoriales;personne à l'éditions,maison d'édition,f
+conducteur,conducteurs,369,personnes qui conduisent,personnes conductrices,automobilistes;pilotes,,
+historien,historiens,365,,personnes historiennes,spécialiste en histoire,,
+électeur,électeurs,360,personnes qui votent,personnes électrices;personnes votantes,,électorat,m
+député,députés,345,personnes qui légifèrent;personnes qui representent,personnes députées;personnes élues,parlementaires,députation,f
+compositeur,compositeurs,315,personnes qui composent,personnes compositeurs,artistes,,
+créateur,créateurs,284,personnes qui créent,personnes créatrices,,,
+serveur,serveurs,278,personnes qui servent,personnes serveuses;personnes servantes,,service,m
+fabricant,fabricants,271,personnes qui fabriquent,personnes fabricantes,,industrie;secteur manufacturier,f;m
+agriculteur,agriculteurs,268,personnes qui cultivent,personnes agricultrices,,monde agricole;secteur agricole,m;m
+producteur,producteurs,264,personnes qui produisent,personnes productrices,,secteur de production,m
+passager,passagers,259,personnes qui passent;personnes qui traversent,personnes passantes;personnes passagères,,,
+recruteur,recruteurs,256,personnes qui recrutent,personnes recruteuses,responsables du recrutement,ressource humaine,f
+sénateur,sénateurs,253,personnes qui légifèrent,personnes légiférantes;personnes sénatrices,parlementaires;membre du Sénat,Sénat,m
+locuteur,locuteurs,252,personnes qui parlent,personnes locutrices;personnes parlantes,,,
+investisseur,investisseurs,247,personnes qui investissent,personnes investisseuses,parties investisseuse,,
+dirigeant,dirigeants,242,personnes qui dirigent,personnes dirigeantes,responsables;chefs,direction,f
+mineur,mineurs,239,,personnes mineures,enfants;jeunes,jeunesse,f
+villageois,villageois,235,personnes qui habitent un village,personnes villageoises,,village,m
+inventeur,inventeurs,235,personnes qui inventent,personnes inventeures;personnes inventantes,,,
+gardien,gardiens,229,personnes qui gardent,personnes gardiennes,gardes;vigiles;sentinelles,,
+mécanicien,mécaniciens,223,personnes qui réparent,personnes mécaniciennes,garagistes,personnel technique,m
+jumeau,jumeaux,220,,personnes jumelles,,paire,f
+juif,juifs,211,,personnes juives,,communauté juive;peuple juif;population juive,f;m;f
+pompier,pompiers,207,personnes qui interviennent,personnes pompières;personnes intervenantes,secouristes,secours,m
+lauréat,lauréats,206,personnes qui gagnent,personnes lauréates,titulaires;récipiendaires,,
+spectateur,spectateurs,202,personnes qui regardent,personnes spectatrices,,public;audience,m;f
+combattant,combattants,201,personnes qui combattent,personnes combattantes,militaires,troupe;armée,f;f
+européen,européens,198,,personnes européennes,,population européenne,f
+empereur,empereurs,193,personnes qui règnent,personnes règnantes;personnes impériales,monarques;couronnes,,
+magicien,magiciens,192,personnes qui illusionnent,personnes illusionnantes,illusionnistes,,
+étranger,étrangers,185,,personnes étrangères,allochtones;allogènes,,
+résident,résidents,184,personnes qui habitent,personnes résidentes,locataires,population locale,f
+particulier,particuliers,180,,personnes privées;personnes particulières,individus,,
+administrateur,administrateurs,179,personnes qui administrent,personnes administratrices,gestionnaires,administration;cadre,f;m
+technicien,techniciens,172,personnes qui réparent,personnes techniciennes,spécialistes technique,personnel technique;équipe technique,m;f
+passionné,passionnés,167,personnes qui s’enthousiasment,personnes passionnées,adeptes;enthouasites,communauté,f
+prêtre,prêtres,165,,,ecclésiastiques,clergé,m
+rédacteur,rédacteurs,165,personnes qui rédigent,personnes rédactrices,journalistes;rewriters,rédaction;équipe éditoriale,f;f
+observateur,observateurs,164,personnes qui observent,personnes observatrices,témoins,,
+plongeur,plongeurs,163,personnes qui plongent,personnes plongeuses,athlètes;apnéistes,,
+collectionneur,collectionneurs,158,personnes qui collectionnent,personnes collectionneuses,,,
+républicain,républicains,157,,personnes républicaines,,parti républicain,m
+salarié,salariés,157,personnes qui travaillent,personnes salariées,membres du personnel,salariat,m
+aventurier,aventuriers,155,personnes qui s'aventurent,personnes aventurières,,,
+collaborateur,collaborateurs,152,personnes qui collaborent,personnes collaboratrices,collègues,collaboration,f
+marin,marins,151,personnes qui naviguent,personnes marines;personnes naviguantes,membres d’équipage,équipage,m
+officier,officiers,151,personnes qui occupent un emploi civil,personnes officières,maires;commissaires;chefs;capitaines,commandement,m
+policier,policiers,147,personnes qui patrouillent,personnes policières,gendarmes,police,f
+chasseur,chasseurs,146,personnes qui chassent,personnes chasseuses,,,
+tuteur,tuteurs,144,personnes qui tutorent,personnes tuteuses,responsables légales,,
+colon,colons,139,personnes qui colonisent,personnes colonisatrices,,colonie,f
+cuisinier,cuisiniers,138,personnes qui cuisinent,personnes cuisinières,chefs de cuisine,cuisine,f
+entraîneur,entraîneurs,137,personnes qui entraînent,personnes entraîneuses,coachs;responsables d’entraînement,encadrement,m
+réalisateur,réalisateurs,134,personnes qui réalisent,personnes réalisatrices,cinéastes,,
+artisan,artisans,134,personnes qui fabriquent,personnes artisanes,personnes du métier,artisanat,m
+jardinier,jardiniers,133,personnes qui jardinent,personnes jardinières,paysagistes,,
+juré,jurés,133,personnes qui jugent,personnes jurées,membres du jury,jury,m
+défenseur,défenseurs,132,personnes qui défendent,personnes défenseuses,parties défenderesses,défense,f
+commerçant,commerçants,131,personnes qui commercent,personnes commerçantes,,commerce,f
+instructeur,instructeurs,129,personnes qui instruisent,personnes instructrices,guide,instruction;personnel formateur,f;m
+supérieur,supérieurs,126,personnes qui supervisent,personnes supérieures,responsables,hiérarchie,f
+donneur,donneurs,126,personnes qui donnent,personne donneuses,,,
+présentateur,présentateurs,125,personnes qui présentent,personnes présentatrices,,,
+amoureux,amoureux,124,personnes qui aiment,personnes amoureuses,partenaires,couple,f
+chauffeur,chauffeurs,123,personnes qui conduisent,personnes chauffeures,automobilistes;pilotes,,
+acheteur,acheteurs,122,personnes qui achètent,personnes acheteuses,,clientèle,f
+fournisseur,fournisseurs,122,personnes qui fournissent,personnes fournisseuses,prestataires,,
+réfugié,réfugiés,121,personnes qui fuient,personnes réfugiées,,,
+général,généraux,120,personnes qui commandent,,,haut commandement,m
+opérateur,opérateurs,119,personnes qui opèrent,personnes opératrices,,,
+animateur,animateurs,111,personnes qui animent,personnes animatrices,,équipe d'animation,f
+héritier,héritiers,111,personnes qui héritent,personnes héritières,légataires,,
+coureur,coureurs,109,personnes qui courent,personnes coureuses,athlètes,,
+tueur,tueurs,107,personnes qui tuent,personnes tueuses,assassins,,
+prisonnier,prisonniers,106,,personnes détenues,,population carcérale,f
+gouverneur,gouverneurs,106,personnes qui gouvernent,personnes gouverneures,responsables:chefs,,
+plombier,plombiers,104,personnes qui réparent,personnes plombières,,,
+pêcheur,pêcheurs,103,personnes qui pêchent,personnes pêcheresses,,,
+électricien,électriciens,103,personnes qui s'occupent d'éléctricité,personnes électriciennes,spécialistes en électronique,,
+marié,mariés,101,personnes qui se marient,personne mariée,,,
+physicien,physiciens,101,personnes qui étudient la physique,personnes physiciennes,scientifiques,communauté scientifique,f
+éleveur,éleveurs,100,personnes qui élèvent,personnes éléveuses,,élevage,m
+magistrat,magistrats,99,personnes qui jugent,personnes magistrates,juge,magistrature,f
+mathématicien,mathématiciens,99,personnes qui étudient les mathématiques,personnes mathématiciennes,spécialistes en mathématiques,communauté mathématique,f
+modérateur,modérateurs,99,personnes qui modèrent,personnes modératrices,gestionnaires,équipe de modération,f
+gagnant,gagnants,99,personnes qui gagnent,personnes gagnantes,vainqueurs,,
+danseur,danseurs,96,personnes qui dansent,personnes danseuses;personnes dansantes,artistes,troupe,f
+défunt,défunts,96,personnes qui décèdent,personnes décédées,,,
+consultant,consultants,95,personnes qui conseillent,personnes consultantes,spécialistes en conseil,,
+coiffeur,coiffeurs,95,personnes qui coiffent,personnes coiffeuses,stylistes,,
+occupant,occupants,94,personnes qui occupent,personnes occupantes,locataires,,
+traducteur,traducteurs,93,personnes qui traduisent,personnes traductrices,spécialistes en traduction;interprètes,,
+compagnon,compagnons,92,personnes qui accompagnent,personnes compagnonnes,partenaires,,
+suspect,suspects,89,,personne suspectes,,,
+procureur,procureurs,86,personnes qui poursuivent,personnes procureuses,,parquet,m
+sportif,sportifs,86,personnes qui pratiquent le sport,personnes sportives,athlètes,monde sportif,m
+sauveteur,sauveteurs,85,personnes qui secourent,personnes sauveuses,secouristes,secours,m
+croyant,croyants,85,personnes qui croient,personnes croyantes,fidèles,,
+prêteur,prêteurs,83,personnes qui prêtent,personnes prêtrices,,,
+éducateur,éducateurs,82,personnes qui éduquent,personnes éducatrices,pédagogues,personnel éducatif,m
+descendant,descendants,81,personnes qui descendent,personnes descendantes,enfants,descendance,f
+correspondant,correspondants,81,personnes qui correspondent,personnes correspondantes,journalistes,,
+conjoint,conjoints,81,personnes qui s’unissent,personnes conjointes,partenaires conjugales,couple,f
+conservateur,conservateurs,80,personnes qui conservent,personnes conservatrices,bibliothécaires;archivistes,,
+conférencier,conférenciers,80,personnes qui donnent la conférence,personnes conférencières,,,
+chrétien,chrétiens,79,personnes qui pratiquent le christianisme,personnes chrétiennes,adeptes du christianisme,chrétienté,f
+barman,barmans,79,personnes qui servent dans un bar,personnes servantes dans un bar,,,
+usager,usagers,78,personnes qui utilisent,personnes utilisatrices,,clientèle;public usager,f;m
+migrant,migrants,76,personnes qui migrent,personnes migrantes,,population migrante,f
+fondateur,fondateurs,75,personnes qui fondent,personnes fondatrices,,,
+constructeur,constructeurs,75,personnes qui construisent,personnes constructrices,,,
+emprunteur,emprunteurs,75,personnes qui empruntent,personnes emprunteuses,parties emprunteuses,,
+interlocuteur,interlocuteurs,75,personnes qui échangent,personnes interlocutrices,destinataires,,
+guerrier,guerriers,74,personnes qui combattent,personnes guerrières,militaires,armée,f
+pionnier,pionniers,74,personnes qui pionnent,personnes pionnières,,avant-garde,m
+allié,alliés,74,personnes qui s’allient,personnes alliées,partenaires,alliance,f
+navigateur,navigateurs,73,personnes qui naviguent,personnes navigatrices,,,
+champion,champions,72,personnes qui gagnent,personnes championnes,vainqueurs;vedettes;étoiles,,
+musulman,musulmans,72,personnes qui pratiquent l'islam,personnes musulmanes,fidèles musulmans,communauté musulmane,f
+auditeur,auditeurs,72,personnes qui écoutent,personnes auditrices,membres de l'auditoire,auditoire;public,m;m
+enquêteur,enquêteurs,71,personnes qui enquêtent,personnes enquêteuses,détectives,,
+voleur,voleurs,70,personnes qui volent,personnes voleuses,,,
+médiateur,médiateurs,69,personnes qui négocient;personnes qui médient;personnes qui intermédient,personnes médiatrices,intermédiaires;arbitres,,
+abonné,abonnés,69,personnes qui s’abonnent,personnes abonnées,,clientèle,f
+immigrant,immigrants,69,personnes qui immigrent,personnes immigrantes,,immigration,f
+accusé,accusés,69,,personnes accusées;personnes misen en cause,parties défenderesses,défense,f
+vainqueur,vainqueurs,69,personnes qui vainquent;personnes qui gagnent,personnes gagnantes;peronnes vainqueuses;personnes victorieuses,,,
+romancier,romanciers,68,personnes qui écrivent des romans,personnes romancières,plumes,,
+détenu,détenus,67,,personnes détenues;personne incarcérée;personnes emprisonniées,,population carcérale,f
+comédien,comédiens,66,personnes qui jouent;personnes qui interprètent,personnes comédiennes,artistes;interprètes,troupe théatrale,f
+gaucher,gauchers,65,personnes qui se servent habituellement de la main gauche,personnes gauchères,,,
+organisateur,organisateurs,65,personnes qui organisent,personnes organisatrices,responsables,comité d'organisation,m
+piéton,piétons,64,personnes qui marchent,personnes piétonnes;personnes marchantes,,,
+narrateur,narrateurs,64,personnes qui racontent,personnes narratrices,,,
+cavalier,cavaliers,64,personnes qui chevauchent,personnes cavalières,partenaires de danse,cavalerie,f
+rappeur,rappeurs,64,personnes qui rappent,personnes rappeuses,artistes de rap,,
+penseur,penseurs,64,personnes qui pensent,personnes penseuses,philosophes,,
+promeneur,promeneurs,63,personnes promenantes,personnes promeneuses,,,
+sorcier,sorciers,63,personnes qui ensorcellent,personnes sorcières,mages,coven,m
+décorateur,décorateurs,63,personnes qui décorent,personnes décoratrices,scénographes;archites d'intérieur,,
+moniteur,moniteurs,62,personnes qui surveillent,personnes monitrices,,équipe encadrante,f
+retraité,retraités,59,personnes qui se retirent,personne retraitée,seniors,troisième âge,m
+survivant,survivants,59,personnes qui survivent,personnes survivantes,,,
+bourgeois,bourgeois,58,,personnes bourgeoises,notables,bourgeoisie,f
+partisan,partisans,57,personnes qui soutiennent,personnes partisanes,adeptes,,
+chroniqueur,chroniqueurs,57,personnes qui chroniquent,personnes chroniqueuses,journalistes,presse,f
+paysan,paysans,56,personnes qui vivent à la campagne,personnes paysannes,,paysannerie,f
+commandant,commandants,55,personnes qui commandent,personnes commandantes,responsables;chefs,commandement,m
+programmeur,programmeurs,55,personnes qui programment,personnes programmeuses,,,
+saint,saints,53,,personnes saintes,figures saintes,,
+livreur,livreurs,53,personnes qui livrent,personnes livreuses,,service de livraison,m
+concepteur,concepteurs,52,personnes qui conçoivent,personnes conceptrices,,équipe de conception,f
+déménageur,déménageurs,52,personnes qui opèrent le déménagement,personnes déménageuses,,,
+décideur,décideurs,52,personnes qui décident,personnes décideuses,décisionnaires;responsables,direction,f
+aidant,aidants,51,personnes qui aident,personnes aidantes,auxiliaires de vie;proches aidants,,
+passant,passants,50,personnes qui passent,personnes passantes,,,
+serf,serfs,50,,personnes serves,esclaves,classe servile;masse servile,f;f
+créancier,créanciers,49,personnes qui réclament,personnes créancières,titulaires de créance,,
+ambassadeur,ambassadeurs,48,,personnes ambassadeuses;personnes diplomatiques,diplomates,corps diplomatique,m
+grutier,grutiers,47,personnes qui opèrent la grue,personnes grutières,,,
+vigneron,vignerons,47,personnes qui vendangent,personnes vigneronnes,,,
+docteur,docteurs,47,,,spécialistes médicales;titulaires d'un doctorat,corps médical,m
+végétarien,végétariens,47,personnes qui pratiquent le végétarisme,personnes végétariennes,adeptes du végétarisme,communauté végétarienne,f
+caissier,caissiers,47,personnes qui encaissent,personnes caissières,,personnel de caisse,m
+pratiquant,pratiquants,47,personnes qui pratiquent,personnes pratiquantes,fidèles;adeptes,,
+apprenti,apprentis,47,personnes qui apprennent,personnes apprennantes,stagiaires;novices,,
+prophète,prophètes,47,personnes qui prophétisent,personnes prophétesses,oracles,,
+politicien,politiciens,46,personnes qui représentent un parti politique,personnes politiciennes,personnalités politiques,politique,f
+chirurgien,chirurgiens,46,personnes qui opèrent;personnes qui pratiquent la chirurgie,personnes chirurgiennes,,corps médical,m
+pèlerin,pèlerins,46,personnes qui font pèlerinage;personnes qui voyagent,personnes pèlerines,,,
+orateur,orateurs,45,personnes qui prononcent des discours,personnes oratrices,porte-paroles,,
+démineur,démineurs,45,personnes qui désamorcent,personnes démineuses,spécialistes en déminage,équipage de déminage,f
+débiteur,débiteurs,44,personnes qui doivent,personnes endettées,parties débitrices,,
+pharmacien,pharmaciens,44,personnes qui exercent la pharmacie,personnes pharmaciennes,spécialistes en pharmacie;apothicaires (archaïque),,
+inconnu,inconnus,44,,personnes inconnues,anonymes,,
+académicien,académiciens,43,personnes qui siégent à l'Académie,personnes académiciennes,membres de l'Académie,Académie,f
+randonneur,randonneurs,43,personnes qui randonnent,personnes randonneuses,excursionnistes,,
+donateur,donateurs,43,personnes qui donnent,personnes donatrices,mécènes,,
+informaticien,informaticiens,42,,personnes informaticiennes,spécialistes informatiques,service informatique,m
+courtier,courtiers,42,,personnes courtières,intermédiaires,,
+végétalien,végétaliens,42,personnes qui pratiquent le végétarisme,personnes végétaliennes,adeptes du végétarisme,communauté végane,f
+praticien,praticiens,41,personnes qui pratiquent,personnes praticiennes,,,
+ressortissant,ressortissants,41,,personnes ressortissantes,,diaspora,f
+préfet,préfets,41,personnes qui administrent,personnes administratrices,hautfonctionnaires,corps préfectoral,m
+expéditeur,expéditeurs,41,personnes qui expédient,personnes expéditrices,parties expéditrices;provenances,,
+correcteur,correcteurs,40,personnes qui corrigent,personnes correctrices,rewritters,,
+criminel,criminels,40,personnes qui délinquent,personnes criminelles,,,
+messager,messagers,40,personnes qui transmettent,personnes messagères,émissaires,,
+consul,consuls,39,personnes qui protègent,personnes consulaires,diplomates,corps consulaire,m
+apprenant,apprenants,38,personnes qui apprennent,personnes apprenantes,élèves,,
+troubadour,troubadours,38,,,poètes;bardes,,
+coéquipier,coéquipiers,37,personnes qui coopèrent,personnes coéquipières;personnes coopérantes,partenaires ,équipe,f
+sculpteur,sculpteurs,36,personnes qui sculptent,personnes sculpteures,artistes;statuaires,,
+berger,bergers,36,personnes qui gardent le troupeau,personnes bergères,,,
+sauveur,sauveurs,36,personnes qui sauvent,personnes sauveuses,secouristes,secours,m
+théologien,théologiens,35,personnes qui font la théologie,personnes théologiennes,spécialistes en théologie,,
+tatoueur,tatoueurs,35,personnes qui tatouent,personnes tatoueuses,spécialistes en tatouage,,
+duc,ducs,35,,personnes nobles,nobles,,
+instituteur,instituteurs,35,personnes qui enseignent,personnes enseignantes,pédagogues,corps enseignant,m
+copain,copains,35,,,camarades,entourage,m
+contrôleur,contrôleurs,34,personnes qui contrôlent,personnes contrôleuses,,service de contrôle,m
+distributeur,distributeurs,34,personnes qui distribuent,personnes distributrices,intermédiaires,service de distribution,m
+ambulancier,ambulanciers,34,personnes qui conduisent l'ambulance,personnes ambulancières,secouristes,,
+porteur,porteurs,34,personnes qui portent,personnes porteuses,manutentionnaires,équipe de portage,f
+votant,votants,33,personnes qui votent,personnes votantes,membres de l'électorat,électorat,m
+québécois,québécois,33,personnes qui vivent au Québec,personnes québécoises,membres de la population du Québec,population québécoise,f
+lycéen,lycéens,33,personnes qui étudient au lycée,personnes lycéennes,élèves,,
+époux,époux,33,,personnes épousées,partenaires ,,
+aîné,aînés,33,,personnes aînées,seniors,troisième âge,m
+sujet,sujets,33,,,,peuple,f
+wikipédien,wikipédiens,33,personnes qui contribuent à Wikipédia,personnes wikipédiennes,,communauté wikipédienne,f
+huissier,huissiers,32,,personnes huissières,,,
+conteur,conteurs,32,personnes qui racontent des histoires,personnes conteuses,,,
+intervieweur,intervieweurs,32,personnes qui interviewent,personnes intervieweuses,journalistes,,
+dessinateur,dessinateurs,32,personnes qui dessinent,personnes dessinatrices,graphistes;artistes,,
+concurrent,concurrents,32,personnes qui rivalisent,personnes concurrentes,adversaires,,
+maçon,maçons,31,personnes qui construisent des murs,personnes maçonnes,,,
+militant,militants,31,personnes qui militent,personnes militantes,activistes,,
+civil,civils,30,,personnes civiles,non-militaires,population civile,f
+amant,amants,30,personnes qui aiment,personnes amoureuses,partenaires ,,
+diététicien,diététiciens,29,personnes qui conseillent sur l'alimentation,personnes diététiciennes,diététistes;nutritionnistes,,
+industriel,industriels,28,personnes qui dirigent des usines,personnes industrielles,responsables industrielles,,
+manifestant,manifestants,28,personnes qui manifestent,personnes manifestantes,protestataires,cortège,m
+ancien,anciens,27,,,,,
+patron,patrons,27,personnes qui employent,personnes patronales,responsables ,direction,f
+intellectuel,intellectuels,27,,personnes intellectuelles,,milieu intellectuel,m
+érudit,érudits,27,,personnes érudites,,,
+baron,barons,26,,personnes nobles,nobles,,
+lanceur,lanceurs,26,personnes qui lancent,personnes lanceuses,athlètes,,
+voyant,voyants,26,personnes qui prédisent,personnes voyantes,médium,,
+ennemi,ennemis,26,,personnes ennemies,adversaires,,
+nageur,nageurs,26,personnes qui nagent,personnes nageuses,athlètes,,
+téléspectateur,téléspectateurs,25,personnes qui regardent la télévision,personnes téléspectatrices,,public;audience,m;f
+collégien,collégiens,24,personnes qui étudient au collège,personnes collégiennes,élèves,,
+tricheur,tricheurs,24,personnes qui trichent,personnes tricheuses,escrocs,,
+tailleur,tailleurs,24,personnes qui taillent,personnes tailleuses,stylistes,,
+attaquant,attaquants,24,personnes qui attaquent,personnes attaquantes,,ligne d'attaque,f
+rêveur,rêveurs,24,personnes qui rêvent,personnes rêveuses,idéalistes,,
+nazi,nazis,24,personnes qui adhèrent au nazisme,personnes nazies,fascistes,parti nazi,m
+prospecteur,prospecteurs,24,personnes qui prospectent,personnes prospectrices,,équipe de prospection,f
+cordonnier,cordonniers,24,personnes qui réparent des chaussures;personnes qui fabriquent des chaussures,personnes cordonnières,,cordonnerie,f
+prostitué,prostitués,24,personnes qui se prostituent,personnes prostituées,,milieu de la prostitution,m
+gaulois,gaulois,23,,personnes gauloises,,peuple gaulois,m
+demandeur,demandeurs,23,personnes qui demandent,personnes demandeuses,,,
+législateur,législateurs,22,personnes qui légifèrent,personnes législatrices,parlementaires,législature,f
+vacancier,vacanciers,22,personnes qui partent en vacances,personnes vacancières,touristes,,
+éboueur,éboueurs,21,,,,,
+savant,savants,21,,,,,
+formateur,formateurs,21,,,,,
+baigneur,baigneurs,21,,,,,
+graveur,graveurs,21,,,,,
+supporter,supporters,21,,,,,
+vieillard,vieillards,20,,,,,
+lord,lords,20,,,,,
+fumeur,fumeurs,20,,,,,
+doctorant,doctorants,20,,,,,
+chéri,chéris,20,,,,,
+sinistré,sinistrés,20,,,,,
+cueilleur,cueilleurs,19,,,,,
+protecteur,protecteurs,19,,,,,
+détenteur,détenteurs,19,,,,,
+superviseur,superviseurs,19,,,,,
+religieux,religieux,19,,,,,
+croupier,croupiers,19,,,,,
+délégué,délégués,18,,,,,
+charpentier,charpentiers,18,,,,,
+forgeron,forgerons,18,,,,,
+expatrié,expatriés,18,,,,,
+bijoutier,bijoutiers,17,,,,,
+orphelin,orphelins,17,,,,,
+évaluateur,évaluateurs,17,,,,,
+associé,associés,17,,,,,
+accompagnateur,accompagnateurs,17,,,,,
+dormeur,dormeurs,16,,,,,
+receveur,receveurs,16,,,,,
+testeur,testeurs,16,,,,,
+ramoneur,ramoneurs,16,,,,,
+druide,druides,16,,,,,
+émetteur,émetteurs,16,,,,,
+viticulteur,viticulteurs,15,,,,,
+banquier,banquiers,15,,,,,
+illustrateur,illustrateurs,15,,,,,
+gars,gars,14,,,,,
+monteur,monteurs,14,,,,,
+questionneur,questionneurs,14,,,,,
+souverain,souverains,14,,,,,
+blogueur,blogueurs,14,,,,,
+hébergeur,hébergeurs,14,,,,,
+immigré,immigrés,14,,,,,
+innovateur,innovateurs,14,,,,,
+répondant,répondants,14,,,,,
+surfeur,surfeurs,14,,,,,
+boucher,bouchers,14,,,,,
+contemporain,contemporains,14,,,,,
+figurant,figurants,13,,,,,
+délinquant,délinquants,13,,,,,
+sourcier,sourciers,13,,,,,
+lutteur,lutteurs,13,,,,,
+metteur,metteurs,13,,,,,
+plaignant,plaignants,13,,,,,
+dictateur,dictateurs,12,,,,,
+mort,morts,12,,,,,
+parolier,paroliers,12,,,,,
+meurtrier,meurtriers,12,,,,,
+buteur,buteurs,12,,,,,
+astrophysicien,astrophysiciens,12,,,,,
+régulateur,régulateurs,12,,,,,
+sélectionneur,sélectionneurs,12,,,,,
+surveillant,surveillants,11,,,,,
+gourmand,gourmands,11,,,,,
+théoricien,théoriciens,11,,,,,
+déposant,déposants,11,,,,,
+converti,convertis,11,,,,,
+tireur,tireurs,11,,,,,
+intéressé,intéressés,11,,,,,
+terrien,terriens,11,,,,,
+chômeur,chômeurs,10,,,,,
+revendeur,revendeurs,10,,,,,
+communicateur,communicateurs,10,,,,,
+vétéran,vétérans,10,,,,,
+portier,portiers,10,,,,,
+défendeur,défendeurs,10,,,,,
+connaisseur,connaisseurs,10,,,,,
+facteur,facteurs,9,,,,,
+sergent,sergents,9,,,,,
+grammairien,grammairiens,9,,,,,
+pâtissier,pâtissiers,9,,,,,
+caucasien,caucasiens,9,,,,,
+logicien,logiciens,9,,,,,
+restaurateur,restaurateurs,9,,,,,
+serviteur,serviteurs,9,,,,,
+droitier,droitiers,9,,,,,
+cofondateur,cofondateurs,8,,,,,
+batteur,batteurs,8,,,,,
+généticien,généticiens,8,,,,,
+colonisateur,colonisateurs,8,,,,,
+encadrant,encadrants,8,,,,,
+remplaçant,remplaçants,8,,,,,
+officiel,officiels,8,,,,,
+citadin,citadins,8,,,,,
+exterminateur,exterminateurs,8,,,,,
+homosexuel,homosexuels,8,,,,,
+innocent,innocents,8,,,,,
+médaillé,médaillés,8,,,,,
+dissident,dissidents,8,,,,,
+charlatan,charlatans,8,,,,,
+costumier,costumiers,8,,,,,
+bagnard,bagnards,8,,,,,
+communicant,communicants,8,,,,,
+occidental,occidentaux,8,,,,,
+compétiteur,compétiteurs,7,,,,,
+nécessiteux,nécessiteux,7,,,,,
+épargnant,épargnants,7,,,,,
+dresseur,dresseurs,7,,,,,
+archer,archers,7,,,,,
+commercial,commerciaux,7,,,,,
+écolier,écoliers,7,,,,,
+opticien,opticiens,7,,,,,
+brasseur,brasseurs,7,,,,,
+blanc,blancs,7,,,,,
+riverain,riverains,7,,,,,
+admirateur,admirateurs,7,,,,,
+gamin,gamins,7,,,,,
+résistant,résistants,7,,,,,
+sympathisant,sympathisants,7,,,,,
+actif,actifs,6,,,,,
+requérant,requérants,6,,,,,
+fromager,fromagers,6,,,,,
+bailleur,bailleurs,6,,,,,
+apiculteur,apiculteurs,6,,,,,
+appelant,appelants,6,,,,,
+syndic,syndics,6,,,,,
+cireur,cireurs,6,,,,,
+rapporteur,rapporteurs,6,,,,,
+curieux,curieux,6,,,,,
+adjoint,adjoints,6,,,,,
+sultan,sultans,6,,,,,
+byzantin,byzantins,6,,,,,
+golfeur,golfeurs,6,,,,,
+accoucheur,accoucheurs,5,,,,,
+bienfaiteur,bienfaiteurs,5,,,,,
+garant,garants,5,,,,,
+cambrioleur,cambrioleurs,5,,,,,
+indépendant,indépendants,5,,,,,
+chocolatier,chocolatiers,5,,,,,
+exécuteur,exécuteurs,5,,,,,
+prédateur,prédateurs,5,,,,,
+quaker,quakers,5,,,,,
+bûcheron,bûcherons,5,,,,,
+régisseur,régisseurs,5,,,,,
+grimpeur,grimpeurs,5,,,,,
+examinateur,examinateurs,5,,,,,
+cultivateur,cultivateurs,5,,,,,
+promoteur,promoteurs,5,,,,,
+indigent,indigents,5,,,,,
+habitué,habitués,5,,,,,
+assaillant,assaillants,5,,,,,
+barde,bardes,5,,,,,
+possesseur,possesseurs,5,,,,,
+skieur,skieurs,5,,,,,
+illuminé,illuminés,5,,,,,
+matheux,matheux,5,,,,,
+géant,géants,5,,,,,
+petit,petits,5,,,,,
+couturier,couturiers,5,,,,,
+assassin,assassins,5,,,,,
+végan,végans,5,,,,,
+imprimeur,imprimeurs,5,,,,,
+tenant,tenants,5,,,,,
+parrain,parrains,5,,,,,
+national,nationaux,5,,,,,
+suiveur,suiveurs,5,,,,,
+détracteur,détracteurs,4,,,,,
+gamer,gamers,4,,,,,
+arrivant,arrivants,4,,,,,
+greffier,greffiers,4,,,,,
+sommelier,sommeliers,4,,,,,
+épicier,épiciers,4,,,,,
+inscrit,inscrits,4,,,,,
+prédicateur,prédicateurs,4,,,,,
+initié,initiés,4,,,,,
+facilitateur,facilitateurs,4,,,,,
+campeur,campeurs,4,,,,,
+installateur,installateurs,4,,,,,
+confident,confidents,4,,,,,
+vieux,vieux,4,,,,,
+nonfumeur,nonfumeurs,4,,,,,
+coordinateur,coordinateurs,4,,,,,
+poissonnier,poissonniers,4,,,,,
+informateur,informateurs,4,,,,,
+assuré,assurés,4,,,,,
+aïeul,aïeuls,4,,,,,
+télétravailleur,télétravailleurs,4,,,,,
+handicapé,handicapés,3,,,,,
+exécutant,exécutants,3,,,,,
+géniteur,géniteurs,3,,,,,
+mortel,mortels,3,,,,,
+adoptant,adoptants,3,,,,,
+vicomte,vicomtes,3,,,,,
+curateur,curateurs,3,,,,,
+patineur,patineurs,3,,,,,
+mafieux,mafieux,3,,,,,
+goth,goths,3,,,,,
+cadet,cadets,3,,,,,
+spéculateur,spéculateurs,3,,,,,
+cheminot,cheminots,3,,,,,
+enchanteur,enchanteurs,3,,,,,
+statisticien,statisticiens,3,,,,,
+concubin,concubins,3,,,,,
+conciliateur,conciliateurs,3,,,,,
+horticulteur,horticulteurs,3,,,,,
+adhérent,adhérents,3,,,,,
+papy,papys,3,,,,,
+mosellan,mosellans,3,,,,,
+motard,motards,3,,,,,
+exploitant,exploitants,3,,,,,
+fraudeur,fraudeurs,2,,,,,
+esthéticien,esthéticiens,2,,,,,
+devin,devins,2,,,,,
+préposé,préposés,2,,,,,
+mendiant,mendiants,2,,,,,
+trésorier,trésoriers,2,,,,,
+griot,griots,2,,,,,
+sauteur,sauteurs,2,,,,,
+routier,routiers,2,,,,,
+servant,servants,2,,,,,
+truand,truands,2,,,,,
+traitre,traitres,2,,,,,
+couillon,couillons,2,,,,,
+importateur,importateurs,2,,,,,
+balayeur,balayeurs,2,,,,,
+épicurien,épicuriens,2,,,,,
+changeur,changeurs,2,,,,,
+hindou,hindous,2,,,,,
+habilleur,habilleurs,2,,,,,
+preneur,preneurs,2,,,,,
+luthérien,luthériens,2,,,,,
+loueur,loueurs,2,,,,,
+couvreur,couvreurs,2,,,,,
+marcheur,marcheurs,2,,,,,
+lesbien,lesbiens,2,,,,,
+libérateur,libérateurs,2,,,,,
+exilé,exilés,2,,,,,
+capétien,capétiens,2,,,,,

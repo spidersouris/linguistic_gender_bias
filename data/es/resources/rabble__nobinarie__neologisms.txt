@@ -1,0 +1,24 @@
+# Neologisms to include in the dictionary
+# One word per line
+
+# Common inclusive neologisms
+amigue
+amigues
+todes
+elles
+chique
+chiques
+mapadres
+nosotrxs
+vosotrxs
+utilize
+utilizes
+utilicen
+utilicemos
+les
+une
+unes
+algune
+algunes
+ningune
+ningunes

@@ -1,0 +1,29 @@
+# Exceptions file for Spanish inclusive words
+# Format: original_word:inclusive_form
+
+# Special cases where we want a specific inclusive form
+niño:infante
+niña:infante
+niños:infantes
+niñas:infantes
+
+poeta:poete
+poetisa:poete
+poetas:poetes
+poetisas:poetes
+
+# Heteronyms (masculine/feminine with different roots)
+actor:intérprete
+actriz:intérprete
+actores:intérpretes
+actrices:intérpretes
+
+hombre:persone
+mujer:persone
+hombres:persones
+mujeres:persones
+
+padre:progenitore
+madre:progenitore
+padres:progenitores
+madres:progenitores

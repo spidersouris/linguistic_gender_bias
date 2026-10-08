@@ -1,0 +1,21 @@
+[project]
+name = "linguistic-gender-bias"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "coloredlogs>=15.0.1",
+    "hydra-core>=1.3.4",
+    "kaleido>=1.3.0",
+    "plotly>=6.9.0",
+    "requests>=2.34.2",
+    "tqdm>=4.70.0",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.16.1",
+    "ty>=0.0.65",
+]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]

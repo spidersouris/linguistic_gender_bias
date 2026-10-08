@@ -1,0 +1,17 @@
+# Invariable words that should never be modified
+# One word per line
+
+# Common invariable words
+con
+para
+por
+entre
+sobre
+porque
+cuando
+donde
+como
+si
+no
+y
+o

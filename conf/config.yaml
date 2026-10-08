@@ -1,0 +1,23 @@
+defaults:
+  - language: fr
+  - _self_
+  - override hydra/job_logging: none
+  - override hydra/hydra_logging: none
+
+logs_level: INFO
+
+corpora:
+  - v4_olmo-2-0325-32b-instruct_llama # 2025-03
+  - v4_olmo-mix-1124_llama # 2024-11
+  - v4_dclm-baseline_llama # 2024-06
+  - v4_dolma-v1_7_llama # 2024-01
+  - v4_rpj_llama_s4 # 2023-04
+  - v4_piletrain_llama # 2020-12-31, https://arxiv.org/abs/2101.00027
+  - v4_c4train_llama # 2021-06-16, https://github.com/allenai/allennlp/discussions/5265
+
+hydra:
+  job:
+    chdir: false
+  output_subdir: null
+  run:
+    dir: .

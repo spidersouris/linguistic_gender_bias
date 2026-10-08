@@ -1,0 +1,50 @@
+{
+  "epicene": [
+    "artista", "artistas",
+    "policía", "policías",
+    "periodista", "periodistas",
+    "estudiante", "estudiantes",
+    "cantante", "cantantes",
+    "dentista", "dentistas",
+    "gerente", "gerentes",
+    "intérprete", "intérpretes"
+  ],
+  
+  "neuter": [
+    "libro", "libros",
+    "mesa", "mesas",
+    "aire", "aires",
+    "sol", "soles",
+    "día", "días",
+    "noche", "noches"
+  ],
+  
+  "invariable_grammar": [
+    "siempre",
+    "nunca",
+    "ahora",
+    "después",
+    "antes",
+    "aquí",
+    "allí",
+    "lejos",
+    "cerca"
+  ],
+  
+  "ends_in_e_defined_gender": [
+    "puente",
+    "fuente",
+    "lente",
+    "valle",
+    "calle"
+  ],
+  
+  "technical_loanwords": [
+    "software",
+    "hardware",
+    "internet",
+    "email",
+    "chef",
+    "web"
+  ]
+}

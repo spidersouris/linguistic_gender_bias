@@ -1,0 +1,11 @@
+code: es
+
+files:
+  - data/es/words/es_x_nouns.csv
+
+key_column: null
+
+columns:
+  - inclusive_x_pl
+
+dedupe_ignore_case: false

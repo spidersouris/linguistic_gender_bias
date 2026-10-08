@@ -1,0 +1,9 @@
+code: de
+
+files:
+  - data/de/words/star.txt
+
+key_column: null
+columns: null
+
+dedupe_ignore_case: true

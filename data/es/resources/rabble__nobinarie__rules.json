@@ -1,0 +1,44 @@
+{
+  "rules": [
+    {
+      "pattern": "o$",
+      "replacement": "e",
+      "description": "Basic masculine singular ending: amigo -> amige"
+    },
+    {
+      "pattern": "a$",
+      "replacement": "e",
+      "description": "Basic feminine singular ending: amiga -> amige"
+    },
+    {
+      "pattern": "os$",
+      "replacement": "es",
+      "description": "Basic masculine plural ending: amigos -> amiges"
+    },
+    {
+      "pattern": "as$",
+      "replacement": "es",
+      "description": "Basic feminine plural ending: amigas -> amiges"
+    },
+    {
+      "pattern": "or$",
+      "replacement": "ore",
+      "description": "Complex suffix: profesor -> profesore"
+    },
+    {
+      "pattern": "ora$",
+      "replacement": "ore",
+      "description": "Complex suffix: profesora -> profesore"
+    },
+    {
+      "pattern": "dor$",
+      "replacement": "dore",
+      "description": "Complex suffix: trabajador -> trabajadore"
+    },
+    {
+      "pattern": "dora$",
+      "replacement": "dore",
+      "description": "Complex suffix: trabajadora -> trabajadore"
+    }
+  ]
+}
